@@ -1,0 +1,6 @@
+.project
+.classpath
+*.exe
+*.class
+*.bat
+*.sh
